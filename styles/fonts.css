@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../font/JosefinSans-Thin.eot');
+    src: url('../font/JosefinSans-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../font/JosefinSans-Thin.woff2') format('woff2'),
+        url('../font/JosefinSans-Thin.woff') format('woff'),
+        url('../font/JosefinSans-Thin.ttf') format('truetype'),
+        url('../font/JosefinSans-Thin.svg#JosefinSans-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../font/Poppins-Regular.eot');
+    src: url('../font/Poppins-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/Poppins-Regular.woff2') format('woff2'),
+        url('../font/Poppins-Regular.woff') format('woff'),
+        url('../font/Poppins-Regular.ttf') format('truetype'),
+        url('../font/Poppins-Regular.svg#Poppins-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../font/OpenSans-Regular.eot');
+    src: url('../font/OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/OpenSans-Regular.woff2') format('woff2'),
+        url('../font/OpenSans-Regular.woff') format('woff'),
+        url('../font/OpenSans-Regular.ttf') format('truetype'),
+        url('../font/OpenSans-Regular.svg#OpenSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

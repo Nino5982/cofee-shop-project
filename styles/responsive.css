@@ -1,0 +1,10 @@
+/*  */
+@media (max-width: 1024px) {
+  /* header */
+  .navigation{
+    gap: 12px;
+  }
+  .header-nav-lists{
+    justify-content: space-evenly;
+  }
+}
